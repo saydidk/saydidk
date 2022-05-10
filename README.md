@@ -1,4 +1,7 @@
 ### S u p . . .
+<!-- GUIA MD 
+<button type='button' href='https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf'> Guia de MD - CURSO EM VIDEO <button/>
+-->
 <!--
 <div><!--gitStats-->
   <!--<h4>S t a t s</h4>
