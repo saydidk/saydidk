@@ -14,4 +14,4 @@
   <h2> </h2>
 </div><!--langStatsEND-->
 
-<button class="fds">fvck</button>
+<button type="button" class="fds">fvck</button>
