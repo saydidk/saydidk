@@ -1,6 +1,6 @@
 <head>
   <style>
-    button{
+    button: {
       width:30px;
       background-color: pink;
     }
