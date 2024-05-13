@@ -1,5 +1,5 @@
 <style>
-  fds{
+  button{
     width:30px;
     background-color: pink;
   }
