@@ -1,4 +1,4 @@
 <p class="p">fodase</p>
 <style>
-  .p:{color:red;}
+  .p:{color:red}
 </style>
