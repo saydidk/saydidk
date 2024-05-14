@@ -7,7 +7,7 @@
                 animation: mymove 2s infinite;
             }
 
-            @keyframes mymove {
+            h1:hover {
                 from {
                     color: red;
                 }
