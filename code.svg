@@ -5,9 +5,6 @@
             h1{
                 color: red;
             }
-            h1:hover{
-                color: red;
-            }    
             </style>
             <h1>HELLO WORLD!</h1>
         </div>
